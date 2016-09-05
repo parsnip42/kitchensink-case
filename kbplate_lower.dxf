@@ -223,9 +223,9 @@ AcDbViewportTableRecord
 21
 1
 12
-140.992457078
+223.089838149
 22
--17.781471007
+32.9549905171
 13
 0
 23
@@ -251,9 +251,9 @@ AcDbViewportTableRecord
 37
 0
 40
-117.267038256
+286.296480117
 41
-1.85824742268
+1.93255395683
 42
 50
 43
@@ -1117,11 +1117,11 @@ AcDbLayerTableRecord
 70
 0
 62
-255
+7
 6
 CONTINUOUS
 370
-25
+0
 390
 F
 0
@@ -1523,7 +1523,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1545,7 +1545,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1567,7 +1567,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1591,7 +1591,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1615,7 +1615,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1639,7 +1639,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1663,7 +1663,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1687,7 +1687,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1709,7 +1709,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1731,7 +1731,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1753,7 +1753,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1775,7 +1775,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1799,7 +1799,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1823,7 +1823,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1847,7 +1847,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1871,7 +1871,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1895,7 +1895,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1919,7 +1919,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1943,7 +1943,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1967,7 +1967,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -1991,7 +1991,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -2015,7 +2015,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -2039,7 +2039,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
@@ -2061,7 +2061,7 @@ AcDbEntity
 6
 ByLayer
 62
-1
+256
 370
 -1
 100
